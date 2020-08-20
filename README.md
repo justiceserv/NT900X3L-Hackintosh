@@ -20,6 +20,7 @@ Working:
 
 Not working:
 - Wifi (Need to buy dongle)
+- Check Battery Percentage
 - Fn + Combination
 
 Not Sure: 
