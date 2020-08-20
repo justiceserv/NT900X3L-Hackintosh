@@ -30,3 +30,7 @@ Just replace clover file that is in my repo.
 /boot/clover --> replace with my files. 
 
 Might need to do some tweaks for audio after installing. I will upload HOW-To about audio later. 
+
+## Special Thanks To
+
+"닉네임" in Hackintosh Talk 시즌 2 KakaoTalk Open Chat
