@@ -27,6 +27,6 @@ Not Sure:
 
 Just replace clover file that is in my repo. 
 
-/boot/clover -> replace with my files. 
+/boot/clover --> replace with my files. 
 
 Might need to do some tweaks for audio after installing. I will upload HOW-To about audio later. 
