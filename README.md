@@ -1,4 +1,7 @@
 # Samsung NT900X3L (Or Metal 9 with i5-6200U)
+
+**Only Checked with Bios Version:P10AFN and MacOS 10.15.6 Catalina Final Version** 
+
 ## Hardware specs:
 ``` 
 CPU: i5-6200U (HD520)
@@ -33,4 +36,4 @@ Might need to do some tweaks for audio after installing. I will upload HOW-To ab
 
 ## Special Thanks To
 
-"닉네임" in Hackintosh Talk 시즌 2 KakaoTalk Open Chat
+**"닉네임"** in Hackintosh Talk 시즌 2 KakaoTalk Open Chat
