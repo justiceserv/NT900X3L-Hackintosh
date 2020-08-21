@@ -1,4 +1,4 @@
-# Samsung NT900X3L (Or Metal 9 with i5-6200U)
+# Samsung NT900X3L-K501S or NP900X3L (Or Metal 9 with i5-6200U)
 
 **Only Checked with Bios Version:P10AFN and MacOS 10.15.6 Catalina Final Version** 
 
