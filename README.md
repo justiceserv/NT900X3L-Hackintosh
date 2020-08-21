@@ -14,7 +14,6 @@ Wifi: Intel chipset but Specification not known (Please make PR if you know)
 
 Working:
 - HD520 (Not Hardware Accleration)
-- Audio
 - Sleeping mode (Though it ejects usb after being awake)
 - And other apple things (app store, siri, those stuff)
 
@@ -26,6 +25,8 @@ Not working:
 Not Sure: 
 - Webcam 
 - GPU Accleration
+- Audio (Can be patched)
+- Battery Percentage (Can be patched)
 
 ## How to use this?
 
