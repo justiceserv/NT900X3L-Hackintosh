@@ -16,17 +16,18 @@ Working:
 - HD520 (Not Hardware Accleration)
 - Sleeping mode (Though it ejects usb after being awake)
 - And other apple things (app store, siri, those stuff)
+- Audio
+- Keyboard & Touchpad
+- Change Screen Brightness
 - Webcam
 
 Not working:
 - Wifi (Need to buy dongle)
-- Check Battery Percentage
-- Fn + Combination
 
 Not Sure: 
 - GPU Accleration
-- Audio (Can be patched)
 - Battery Percentage (Can be patched)
+- Fn + Combination
 
 ## How to use this?
 
