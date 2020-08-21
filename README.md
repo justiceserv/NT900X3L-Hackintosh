@@ -7,8 +7,8 @@
 CPU: i5-6200U (HD520)
 RAM: LPDDR3L 4GB
 SSD: Samsung 860 Evo SATA M.2 256GB (This is not the base SSD in this model.)
-Audio: Realtek but Specification not known (Please make PR if you know)
-Wifi: Intel chipset but Specification not known (Please make PR if you know) 
+Audio: Realtek ALC256
+Wifi: Intel(R) Dual Band Wireless AC 8260
 ```
 ## Working list:
 
@@ -16,6 +16,7 @@ Working:
 - HD520 (Not Hardware Accleration)
 - Sleeping mode (Though it ejects usb after being awake)
 - And other apple things (app store, siri, those stuff)
+- Webcam
 
 Not working:
 - Wifi (Need to buy dongle)
@@ -23,7 +24,6 @@ Not working:
 - Fn + Combination
 
 Not Sure: 
-- Webcam 
 - GPU Accleration
 - Audio (Can be patched)
 - Battery Percentage (Can be patched)
